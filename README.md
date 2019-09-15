@@ -3,12 +3,15 @@
 Installing Modules 
 
 #Install flask Module
+
 1. pip install flask
 
 #install Flask Bootstrap
+
 2. pip install flask-bootstrap
 
 #Install flask_sqlalchemy
+
 3. pip install flask_sqlalchemy
  
  create app.py file
